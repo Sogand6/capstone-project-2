@@ -1,0 +1,196 @@
+.header-custume{
+    background-color: #FF9494;
+}
+
+.nav-link{
+    color: white !important;
+    font-family: "Shadows Into Light", cursive;
+    font-size: larger;
+}
+
+.nav .active{
+    background-color: #CB9DF0 !important;
+}
+
+.nav-link:hover{
+    background-color: #CB9DF0 ;
+}
+
+
+.landing {
+    background: linear-gradient(300deg, #FFE6E6, #bf6dfa,#F2D1D1, #DAEAF1);
+    animation: gradient-animation 18s ease infinite;
+    height: 500px;
+
+  }
+
+ .about{
+    background-color: #FFE3E1;
+ }
+
+ .title{
+    text-align: center;
+ }
+
+ .works{
+    background: #8e3c77;
+ }
+
+ .skill1{
+    float: left;
+ }
+
+ .skill2{
+    float: right;
+ }
+
+ .skill3{
+    float: left;
+ }
+
+ .tom{
+    float: right;
+ }
+
+ .contact-me{
+    color: #6A1E55;
+    text-align: center;
+    background-color: #FFE3E1;
+
+ }
+
+ .btn {
+    background: salmon;
+    background-image: -webkit-linear-gradient(top, #FF9494, pink);
+    background-image: -moz-linear-gradient(top, #FF9494, #FF9494);
+    background-image: -ms-linear-gradient(top, #FF9494, #FF9494);
+    background-image: -o-linear-gradient(top, #FF9494, #FF9494);
+    background-image: linear-gradient(to bottom, #FF9494, #FF9494);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    font-family: "Playwrite IS", cursive;
+}
+
+#footer{
+  color: black;
+  text-align: center;
+  font-family: "Merriweather", serif;
+  background-color: #F0C1E1;
+  padding: 50px 0 20px;
+}
+
+.skill{
+   display: block;
+   text-align: center;
+   padding-top: 20px;
+
+}
+
+.skill h2{
+   font-size: 2.5rem;
+   padding-bottom: 10px;
+   display: block;
+   font-size: 1.5em;
+   margin-block-start: 0.83em;
+   margin-block-end: 0.83em;
+   margin-inline-start: 0px;
+   margin-inline-end: 0px;
+
+}
+
+.parent{
+    display: grid;
+    grid-template-columns: 0.5fr 1fr;
+    grid-template-rows: repeat(1, 1fr);
+    width: 50%;
+    margin: 100px auto 0 auto;
+    text-align: left;
+    row-gap: 2rem;
+}
+
+.college{
+
+ display: block;
+   
+}
+
+.coding{
+   display: block;
+}
+
+
+
+.gamer{
+   display: block;
+}
+
+.hot{
+   display: block;
+}
+
+
+
+
+.code-img {
+   width: 25%;
+   float: left;
+   margin-right: 30px;
+ }
+
+.skill-row {
+   width: 50%;
+   margin: 100px auto 100px auto;
+   text-align: left;
+ }
+
+.skills{
+   padding-bottom: 40px;
+   background: #FFE3E1;
+}
+
+.color{
+   color: black;
+   font-family: "Barlow Semi Condensed", sans-serif;
+}
+
+#name{
+
+  font-family: "Playwrite CO", cursive;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+
+}
+
+#main{
+   
+   font-family: "Yantramanav", sans-serif;
+   font-weight: 500;
+   font-size: 1.5rem;
+   
+}
+
+#me{
+   font-family: "Barlow Semi Condensed", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+#fact{
+   font-family: "Barlow Semi Condensed", sans-serif;
+   font-size: 1.5em;
+}
+
+#title{
+   font-family: "Playwrite CO", cursive;
+}
+
+#title2{
+   font-family: "Barlow Semi Condensed", sans-serif;
+   font-size: smaller;
+}
